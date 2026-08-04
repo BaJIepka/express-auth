@@ -1,0 +1,12 @@
+node_modules
+dist
+generated
+coverage
+tests
+.git
+.env
+.env.*.local
+*.log
+npm-debug.log*
+.vscode
+.claude

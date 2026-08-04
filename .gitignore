@@ -1,0 +1,12 @@
+node_modules/
+dist/
+coverage/
+generated/
+
+# Environment variables
+.env
+.env.*.local
+
+# Logs
+*.log
+npm-debug.log*
